@@ -1,0 +1,113 @@
+.footer {
+  height: 375px;
+  background-color: #f4f4f4;
+  width: 1500px;
+}
+
+.footer__logo {
+  margin-left: 350px;
+  margin-top: 80px;
+}
+
+.footer__logo > h2 {
+  margin-left: 40px;
+  margin-top: -28px;
+  font-family: Open Sans;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  color: #323232;
+}
+
+.footer__logo > p {
+  margin-top: 10px;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 180%;
+  color: #969696;
+}
+
+.footer__link > h1 {
+  margin-left: 442px;
+  margin-top: -130px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  color: #323232;
+}
+
+.footer__link > h2 {
+  margin-left: 442px;
+  margin-top: 20px;
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 19px;
+  color: #969696;
+}
+
+.footer__about > h1 {
+  margin-left: 580px;
+  margin-top: -130px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  color: #323232;
+}
+
+.footer__about > h2 {
+  margin-left: 580px;
+  margin-top: 20px;
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 19px;
+  color: #969696;
+}
+
+.footer__address > h1 {
+  margin-left: 780px;
+  margin-top: -135px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  color: #323232;
+}
+
+.footer__address > h2 {
+  margin-left: 780px;
+  margin-top: 40px;
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 19px;
+  color: #969696;
+}
+
+.facebook {
+  margin-top: 140px;
+  margin-left: 20px;
+}
+
+.instagram {
+  position: absolute;
+  margin-top: -27px;
+  margin-left: 50px;
+}
+
+.twitter {
+  position: absolute;
+  margin-top: -27px;
+  margin-left: 80px;
+}
+
+.mail {
+  position: absolute;
+  margin-top: -27px;
+  margin-left: 110px;
+}
+
+

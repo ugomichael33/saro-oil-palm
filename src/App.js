@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router} from 'react-router-dom'
+import Nav from "./components/Nav";
+import Header from "./components/Header";
+import Worker from "./components/Worker";
+import Services from "./components/Services";
+import About from "./components/About";
+import Capabilities from "./components/Capabilities";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router> 
+          <div className="overflow-scroll" style={{height:'4500px'}}>
+              <Nav />
+              <Header />
+              <Worker />
+              <Services />
+              <About />
+              <Capabilities />
+              <Contact />
+              <Footer />
+          </div>             
+    </Router>
   );
 }
 
