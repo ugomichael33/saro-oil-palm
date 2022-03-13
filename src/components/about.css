@@ -1,0 +1,11 @@
+@media (min-width: 1024px) {
+    .about {
+        display: flex;
+    }
+}
+
+@media (max-width: 1023px) {
+    .about-main{
+        display: none;
+    }
+}

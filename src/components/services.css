@@ -1,0 +1,25 @@
+@media (min-width: 1024px) {
+    .service{
+        position: relative;
+    }
+    .service-half {
+        background-color: white;
+        width: 600px;
+        height: 884px;
+        margin-left: 700px;
+    }
+    .service-text {
+        position: absolute;
+        margin-top: -750px;
+        margin-left: 700px;
+    }
+    .service-head {
+        display: none;
+    }
+}
+
+@media (max-width: 1023px) {
+    .service-header {
+        display: none;
+    }
+}

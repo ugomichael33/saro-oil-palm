@@ -25,7 +25,9 @@ module.exports = {
         "logo-img": 'url("./components/assets/logo.jpg")',
         "heap-bg": 'url("./components/assets/palmheap.png")',
         "kernal-bg": 'url("./components/assets/palmkernal.jpg")',
-        "worker-img": 'url("./components/assets/worker.png")'
+        "worker-img": 'url("./components/assets/worker.png")',
+        "palmoil-img": 'url("./components/assets/palmoil.png")',
+        "dark-green": "#275A53"
       }
     },
   },
