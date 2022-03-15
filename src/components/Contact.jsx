@@ -61,7 +61,7 @@ function Contact() {
                 button next to it and<br className='lg:hidden'/> contact us directly.</p>
             </div>
             <div>
-              <button className='rounded-lg text-white font-semibold px-5 py-2 shadow-lg animate-bounce mt-5 ml-2 bg-[145A2F] lg:px-20 lg:py-4 lg:bg-[#E2963C] lg:mt-40 lg:ml-20'>Contact Us</button>
+              <button className='rounded-lg text-white font-semibold px-5 py-2 shadow-lg animate-bounce mt-5 ml-2 bg-[#145A2F] lg:px-20 lg:py-4 lg:bg-[#E2963C] lg:mt-40 lg:ml-20'>Contact Us</button>
             </div>
             <hr className='mt-20 mx-7'/>
         </div>    
