@@ -55,13 +55,13 @@ function Contact() {
             </div>
         </div>
         <div className='lg:flex lg:justify-between lg:ml-20 lg:mt-24'>
-           <div>
-              <h1 className='font-serif font-bold text-2xl capitalize pt-10 ml-2 leading-[40px] lg:text-4xl' style={{color:'#275a53', letterSpacing:'-0.5px'}}>We would <span style={{color:'#323232'}}>love to talk<br/> with you!</span></h1>
+           <div className='lg:ml-24'>
+              <h2 className='font-serif font-bold text-2xl capitalize pt-10 ml-2 leading-[40px] lg:text-4xl' style={{color:'#275a53', letterSpacing:'-0.5px'}}>We would <span style={{color:'#323232'}}>love to talk<br/> with you!</span></h2>
               <p className='font-sans text-base ml-2 lg:mt-5 lg:text-[18px]' style={{lineHeight:'29px',color:'#969696'}}>You want to ask something to us, just<br className='lg:hidden'/> by clicking the<br className='break' />
                 button next to it and<br className='lg:hidden'/> contact us directly.</p>
             </div>
             <div>
-              <button className='rounded-lg text-white font-semibold px-5 py-2 shadow-lg mt-5 ml-2 bg-[#145A2F] lg:px-20 lg:py-4 lg:bg-[#E2963C] lg:mt-40 lg:ml-20'>Contact Us</button>
+              <button className='rounded-lg text-white font-semibold px-5 py-2 shadow-lg mt-5 ml-2 bg-[#145A2F] lg:px-20 lg:py-4 lg:bg-[#E2963C] lg:mt-36 lg:ml-96'>Contact Us</button>
             </div>
             <hr className='mt-20 mx-7'/>
         </div>    
