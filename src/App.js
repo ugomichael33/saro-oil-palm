@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <Router> 
-          <div className="w-full mx-auto" style={{height:'4500px'}}>
+          <div className="max-w-7xl lg:max-w-full lg:w-full mx-auto" style={{height:'4500px'}}>
               <Nav />
               <Header />
               <Worker />
