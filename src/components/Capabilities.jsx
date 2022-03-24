@@ -4,7 +4,7 @@ import React from 'react'
 
 function Capabilities() {
   return (
-    <div className='capabilities flex flex-col max-w-7xl mx-auto h-[750px] lg:h-[850px]' style={{backgroundColor:'#275A53', letterSpacing: '-0.5px' }} id='capabilities'>
+    <div className='capabilities flex flex-col w-full mx-auto h-[750px] lg:h-[850px]' style={{backgroundColor:'#275A53', letterSpacing: '-0.5px' }} id='capabilities'>
         <div >
           <div className='ml-2 text-base font-sans uppercase mt-10 lg:ml-40 lg:mt-24' style={{lineHeight:'22px', lineSpacing:'1px',color:'#e2963c'}}>learn more </div>
           <div className='ml-2 text-3xl font-bold text-white lg:ml-40 lg:text-4xl lg:mt-5' style={{lineHeight: '53px'}}>Our Capabilities</div>

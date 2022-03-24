@@ -8,7 +8,7 @@ import EmailIcon from '@mui/icons-material/Email';
 
 function Footer() {
   return (
-    <div className='max-w-7xl mx-auto' style={{height:'350px', backgroundColor:'#f4f4f4'}}>
+    <div className='w-full mx-auto' style={{height:'350px', backgroundColor:'#f4f4f4'}}>
         
         <div className='footer__logo'>
             <div className='flex ml-2 lg:ml-20'>

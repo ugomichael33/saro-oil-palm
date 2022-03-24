@@ -6,7 +6,7 @@ import star from './assets/star.png'
 function Contact() {
   let stars = <img src={star} />
   return (
-    <div className='max-w-7xl mx-auto h-[400px] lg:h-[1000px]' style={{backgroundColor:'#f4f4f4'}} id='contact'>
+    <div className='w-full mx-auto h-[400px] lg:h-[1000px]' style={{backgroundColor:'#f4f4f4'}} id='contact'>
         <div className='contact'>
             <div className='flex'>
               <div className='w-1/2'>

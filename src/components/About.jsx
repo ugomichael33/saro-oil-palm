@@ -23,7 +23,7 @@ function About() {
 
   
   return (
-    <div className='about flex flex-col max-w-7xl mx-auto lg:flex' style={{background:'#F4F4F4', height:'900px'}} id='aboutus'>
+    <div className='about flex flex-col w-full mx-auto lg:flex' style={{background:'#F4F4F4', height:'900px'}} id='aboutus'>
       <div className='lg:flex'>
         <div className='lg:w-1/4 lg:ml-16 lg:mt-32'>
             <h2 className='text-base mt-14 ml-2 leading-6 uppercase text-[#275A53] lg:text-[#E2963C] font-bold'>About Us</h2>

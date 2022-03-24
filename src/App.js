@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <Router> 
-          <div className="overflow-scroll" style={{height:'4500px'}}>
+          <div className="w-full mx-auto" style={{height:'4500px'}}>
               <Nav />
               <Header />
               <Worker />
